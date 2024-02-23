@@ -20,7 +20,7 @@ if ($n > 0) {
 } else {
 
     Database::iud("INSERT INTO `item` (`item_code`,`item_category`,`item_subcategory`,`item_name`,`quantity`,`unit_price`) 
-        VALUES('" . $itemCode . "','" . $itemName . "','" . $itemCategory . "','" . $itemSubCategory . "','" . $quantity1 . "','" . $unitprice . "')");
+        VALUES('" . $itemCode . "','" . $itemCategory . "','" . $itemSubCategory . "','" . $itemName  . "','" . $quantity1 . "','" . $unitprice . "')");
 
     echo "New item Added.";
 }
