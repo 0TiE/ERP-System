@@ -60,7 +60,8 @@ Welcome to the PHP-MySQL ERP System, a comprehensive solution for managing custo
 ### Installation
 1. Clone the repository: `git clone https://github.com/0TiE/ERP-System.git`
 2. Navigate to the project directory: `cd ERP Systemc`
-3. Import the database schema: [Provide SQL script or instructions]
+3. Import the database schema: ERP DB.sql
+   
 
 ### Usage
 1. Start the PHP development server or configure your web server.
@@ -78,13 +79,13 @@ If you would like to contribute to the project, follow these steps:
 5. Submit a pull request.
 
 ## License
-[Specify the license under which your ERP system is released]
+
 
 ## Acknowledgements
-[Give credit to any third-party libraries, tools, or individuals who contributed to the project]
+
 
 ## Support
-[Provide information on how users can get help or support]
+
 
 ## Contact
-[Include your contact information or a link to your website]
+
