@@ -55,12 +55,11 @@ Welcome to the PHP-MySQL ERP System, a comprehensive solution for managing custo
 ## Getting Started
 
 ### Prerequisites
-- [List any software or dependencies required to run the system]
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/0TiE/ERP-System.git`
 2. Navigate to the project directory: `cd ERP Systemc`
-3. Import the database schema: ERP DB.sql
+3. Import the database schema: assigment.sql
    
 
 ### Usage
